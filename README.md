@@ -1,8 +1,5 @@
 ### Hey!
 
-<!--
-**sammiyong/sammiyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... React
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Liquid, HTML, SCSS/CSS, Javascript
 - 📫 How to reach me: ... sammiyong@gmail.com
--->
